@@ -22,7 +22,6 @@
     }
   ],
   "main": "lib/grunt-benchmark.js",
-  "bin": "bin/grunt-benchmark",
   "engines": {
     "node": ">= 0.6.0"
   },
